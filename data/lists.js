@@ -4,7 +4,7 @@ export const projects = [
     name: "landing-page",
     description: "boostrap5-landing-page",
     source: "https://github.com/Pattapol154/boostrap5-LandingPage.git",
-    live: "thirsty-engelbart-a284d2.netlify.app",
+    live: "https://thirsty-engelbart-a284d2.netlify.app/",
   },
   {
     icon: "👨🏼‍🔬",
@@ -34,7 +34,7 @@ export const projects = [
     description:
       "Portfolio-app",
     source: "https://github.com/Pattapol154/pattapol.io.git",
-    live: "pattapol-io.vercel.app"
+    live: "https://pattapol-io.vercel.app/"
   },
 ];
 

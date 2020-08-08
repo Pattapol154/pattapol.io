@@ -1,13 +1,13 @@
 export const projects = [
   {
-    icon: "🧑🏻‍💻 👨🏻‍💻",
+    icon: "👨🏻‍💻",
     name: "landing-page",
     description: "boostrap5-landing-page",
     source: "https://github.com/Pattapol154/boostrap5-LandingPage.git",
     live: "thirsty-engelbart-a284d2.netlify.app",
   },
   {
-    icon: "👨🏼‍🔬 👩🏼‍🔬",
+    icon: "👨🏼‍🔬",
     name: "react-breaking bad",
     description:
       "my-api-react",
@@ -15,21 +15,21 @@ export const projects = [
     live: "https://pattapol154.github.io/react-api-breakingbad/",
   },
   {
-    icon: "🕵🏼‍♂️ 🕵🏼‍♀️",
+    icon: "🕵🏼‍♀️",
     name: "material-ui-blog-react",
     description: "blog react",
     source: "https://github.com/Pattapol154/react-blog-MaterialUI.git",
     live: "https://pattapol154.github.io/react-blog/",
   },
   {
-    icon: " 🦸🏼‍♂️",
+    icon: "🦸🏼‍♂",
     name: "vueJS",
     description: "weather-vue",
     source: "https://github.com/Pattapol154/vue-weather-app.git",
     live: "https://keen-jones-aeebcc.netlify.app/",
   },
   {
-    icon: "🧑🏻‍🎓 ",
+    icon: "🛀🏻",
     name: "chakra-ui-app",
     description:
       "Portfolio-app",

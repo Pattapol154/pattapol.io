@@ -1,5 +1,19 @@
 export const projects = [
   {
+    icon: "🧐",
+    name: "Netflix-clone || firebase",
+    description: "Realtime app",
+    source: "https://github.com/Pattapol154/netflix-clone.git",
+    live: "https://netflix-clone-20462.web.app/",
+  },
+  {
+    icon: "🧐",
+    name: "Youtube-clone || firebase",
+    description: "Realtime app",
+    source: "https://github.com/Pattapol154/youtube-clone.git",
+    live: "https://clone-631fd.web.app/",
+  },
+  {
     icon: "👨🏻‍💻",
     name: "landing-page",
     description: "boostrap5-landing-page",
